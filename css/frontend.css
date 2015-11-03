@@ -1,0 +1,40 @@
+.fl-module-block-to-accordion .blocks-to-accordion .block {
+	float: left;
+	width: 100%;
+}
+
+.fl-module-block-to-accordion .blocks-to-accordion .ui-icon {
+	background: transparent !important;
+	text-indent: 0;
+}
+
+.fl-module-block-to-accordion .blocks-to-accordion .ui-accordion-header {
+	cursor: pointer;
+	margin: -1px 0 0;
+	padding: 0 5px;
+	outline: none;
+	position: relative;
+}
+
+.fl-module-block-to-accordion .blocks-to-accordion .ui-accordion-content p {
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+.fl-module-block-to-accordion .ui-accordion .ui-accordion-header {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.fl-module-block-to-accordion .ui-accordion .ui-accordion-header .ui-accordion-header-icon {
+	display: inline;
+	position: relative;
+  left: auto;
+  top: auto;
+  margin-top: 0;
+	padding: 0 5px;
+}
+.fl-module-block-to-accordion .icon-right .ui-accordion-header .ui-accordion-header-icon {
+	position: absolute;
+	right: 0;
+}
